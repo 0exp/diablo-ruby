@@ -1,0 +1,9 @@
+https://github.com/whitequark/parser - best ruby parser
+https://github.com/whitequark/parser/blob/master/doc/AST_FORMAT.md - AST foramt doc
+http://whitequark.github.io/ast/AST/Node.html - gem AST doc
+https://whitequark.github.io/parser/ gem parrser doc
+https://github.com/mbj/unparser - code unparser
+
+https://github.com/ruby-next/ruby-next wow :D
+
+https://whitequark.org/blog/2013/04/26/lets-play-with-ruby-code/ - how to work with it
